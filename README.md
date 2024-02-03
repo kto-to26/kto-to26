@@ -2,7 +2,7 @@
 ## [Welcome!](https://github.com/kto-to26)
 
 
-I'm Alexey Khudyakov. 
+I'm Alex 
 At the moment I have six months of experience in the field of Frontend development. Now I’m creating my portfolio and looking for a freelance client
 
 **Stack**:JavaScript(Base), React(Base),HTML(High level),CSS(High level),SCSS(SASS)(High level),Vite(Base),Prepros(Base)

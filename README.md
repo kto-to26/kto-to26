@@ -6,7 +6,7 @@ I'm Alex.
 
 At the moment I have six months of experience in the field of Frontend development. Now I’m creating my portfolio and looking for a freelance client
 
-**Stack**:JavaScript(Base), React(Base),HTML(High level),CSS(High level),SCSS(SASS)(High level),Vite(Base),Prepros(Base)
+**Stack**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 
 **IDE**:VS Code, Prepros, Vite, Node JS
 
@@ -21,7 +21,7 @@ Well, if you liked any repositories, then I will be grateful if you mark them wi
 
 Я Алексей Худяков. В данный момент у меня есть полгода опыта в Frontend-разработке.На Github я формирую свое портфолио и ищу заказчика на фриланс
 
-**Стек**:JavaScript(Base), React(Base),HTML(High level),CSS(High level),SCSS(SASS)(High level),Vite(Base),Prepros(Base)
+**Стек**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 
 **IDE**:VS Code, Prepros, Vite, Node JS
 

@@ -19,7 +19,7 @@ Well, if you liked any repositories, then I will be grateful if you mark them wi
 
 ## [Всем привет!](https://github.com/kto-to26)
 
-Я Алексей Худяков. В данный момент у меня есть полгода опыта в Frontend-разработке.На Github я формирую свое портфолио и ищу заказчика на фриланс
+Я Алексей. В данный момент у меня есть полгода опыта в Frontend-разработке.На Github я формирую свое портфолио и ищу заказчика на фриланс
 
 **Стек**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 

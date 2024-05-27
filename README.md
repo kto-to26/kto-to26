@@ -8,7 +8,7 @@ I Frontend development. Now I’m creating my portfolio and looking for a freela
 
 **Stack**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 
-**IDE**:VS Code, Prepros, Vite, Node JS
+**IDE**:VS Code, Prepros, Vite
 
 **Connection**:If you'd like to ask any questions about me or my study/work or would like to collaborate on a project, feel free to call or write. The easiest way to reach me is via [Telegram](https://t.me/kto_to_Frontend).
 
@@ -19,11 +19,11 @@ Well, if you liked any repositories, then I will be grateful if you mark them wi
 
 ## [Всем привет!](https://github.com/kto-to26)
 
-Я Алексей. В данный момент у меня есть полгода опыта в Frontend-разработке.На Github я формирую свое портфолио и ищу заказчика на фриланс
+Я Алексей. Я Frontend-разработчик .На Github я формирую свое портфолио и ищу заказчика на фриланс
 
 **Стек**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 
-**IDE**:VS Code, Prepros, Vite, Node JS
+**IDE**:VS Code, Prepros, Vite,
 
 **Connection**:Если у вас появились вопросы или вы захотели со мной связаться,то легче(и быстрее) всего это будет сделать через [Telegram](https://t.me/kto_to_Frontend)
 

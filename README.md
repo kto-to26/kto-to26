@@ -4,7 +4,7 @@
 
 I'm Alex.
 
-I Frontend development. Now I’m creating my portfolio and looking for a freelance client
+I'm Frontend development. Now I’m creating my portfolio and looking for a freelance client
 
 **Stack**:JavaScript (Base), React (Base), HTML (High level), CSS (High level), SCSS (SASS) (High level), Vite (Base), Prepros (Base)
 
